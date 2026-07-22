@@ -1,4 +1,4 @@
- 🏠 House Price Prediction — Ames Housing Dataset (Kaggle)
+# 🏠 House Price Prediction — Ames Housing Dataset (Kaggle)
 
 This project is based on Kaggle's well-known **"House Prices - Advanced Regression Techniques"** competition. The goal is to predict the `SalePrice` of houses in Ames, Iowa, based on various features (area, quality, year built, etc.).
 
@@ -83,24 +83,6 @@ All models were trained on scaled features (`StandardScaler`) using an 80-20 tra
 
 ![Kaggle Score](images/kaggle_score.png)
 
-## 📊 Visualizations
-
-**SalePrice Distribution**
-
-![SalePrice Distribution](images/price_distribution.png)
-
-**Living Area vs SalePrice**
-
-![Living Area vs SalePrice](images/area_vs_price.png)
-
-**Correlation Heatmap**
-
-![Correlation Heatmap](images/correlation_heatmap (1).png)
-
-**Top 15 Feature Importances**
-
-![Feature Importance](images/feature_importance.png)
-
 ## 🚀 How to Run
 
 1. Clone the repository:
@@ -140,7 +122,10 @@ Running the notebook generates the following files:
 - `area_vs_price.png` — Living area vs price scatter plot
 - `feature_importance.png` — Top 15 important features of the best model
 
+## 👤 Author
 
+**luckylucky110507**
 
+## 📄 License
 
 This project is for educational and portfolio purposes, based on Kaggle's public "House Prices - Advanced Regression Techniques" dataset.
