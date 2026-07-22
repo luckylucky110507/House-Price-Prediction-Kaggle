@@ -95,7 +95,7 @@ All models were trained on scaled features (`StandardScaler`) using an 80-20 tra
 
 **Correlation Heatmap**
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/correlation_heatmap (1).png)
 
 **Top 15 Feature Importances**
 
